@@ -18,10 +18,10 @@ Agile Metodologi and Scrum Framework [Dowload](resource/ot1/Agile_Metodologi_and
 - M Naufal Rabbani , Memulai Karir IT Dengan Kontribusi Tanpa Nanti [Download](resource/ot3/Memulai_Karir_IT_Dengan_Kontribusi_Tanpa_Nanti.pptx)
 - Didik Tri Susanto , Become Inspiring Software Engineer [Download](resource/ot5/7_formula_pintar.pptx)
 
-## :loudspeaker: OpenTalk 4 `See the game from other side`
+## :loudspeaker: OpenTalk #4 `See the game from other side`
 - Dede , Review the game from different perspective [Download]()
 - Ibnu Raziq , World building and  crafting UI&UX for your game [Download]()
 
-## :loudspeaker: OpenTalk 5 `Develop people in millenial age`
+## :loudspeaker: OpenTalk #5 `Develop people in millenial age`
 - Yudho Januar Prakoso , 7 Formula pintar bersaing di era digital [Download](resource/ot5/7_formula_pintar.pptx)
 - Misbakhul Mustofin ,Menjadi AGILE untuk menghadapi Era Digital yang Unpredictable [Download](resource/ot5/agile.pptx)
