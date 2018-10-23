@@ -23,5 +23,5 @@ Agile Metodologi and Scrum Framework [Dowload](resource/ot1/Agile_Metodologi_and
 - Ibnu Raziq , World building and  crafting UI&UX for your game [Download]()
 
 ## :loudspeaker: OpenTalk 5 `Develop people in millenial age`
-- Yudho Januar Prakoso , 7 Formula pintar bersaing di era digital [Download]()
+- Yudho Januar Prakoso , 7 Formula pintar bersaing di era digital [Download](resource/ot5/7_formula_pintar.pptx)
 - Misbakhul Mustofin ,Menjadi AGILE untuk menghadapi Era Digital yang Unpredictable [Download](resource/ot5/agile.pptx)
